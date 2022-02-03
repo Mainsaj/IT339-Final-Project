@@ -24,16 +24,16 @@
   "_id": {
     "$oid": "Auto-generated on post creation"
   },
-  "key": "Post Key Here",
-  "title": "Post Title Here",
-  "body": "Post Text Here"
+  "key": "",
+  "title": "",
+  "body": ""
 }]`
 ### Example User
 `[{
-        "username":"admin",
-        "password":"it339",
-        "firstName":"admin",
-        "lastName":"admin"
+        "username":"",
+        "password":"",
+        "firstName":"",
+        "lastName":""
     }]`
 
 # Testing
