@@ -36,7 +36,8 @@
   "username":"",
   "password":"",
   "firstName":"",
-  "lastName":""
+  "lastName":"",
+  "dateCreated":""
 }]
 ```
 # Testing
