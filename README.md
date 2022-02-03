@@ -10,6 +10,8 @@
 
 3. Create a .env file in each directory containing the following
 > - PORT
+> - HOST
+> - USERS_PORT
 > - MONGODB=mongodb
 > - MONGODB_HOST
 > - MONGODB_PORT     
