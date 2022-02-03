@@ -19,9 +19,16 @@
 5. The application can now be viewed at the port specified in /blog/.env
 
 # Database
-### Sample datasets can be found in posts.json and users.json
+`[{
+  "_id": {
+    "$oid": "Auto-generated on post creation"
+  },
+  "key": "Post Key Here",
+  "title": "Post Title Here",
+  "body": "Post Text Here"
+}]`
 
-## Testing
+# Testing
 ### Testing for the application is built with mocha and chai  
 ### Sample tests may be run with npm test  
 ### For tests to pass there must be a post at key=0
