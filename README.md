@@ -1,7 +1,9 @@
 # Simple Blog
 
 ## This application contains a simple blog with an authentication microservice built along side
-### Any user can view posts while only an authenticated user can add, edit or delete them.   
+### Any user can view posts while only an authenticated user can add, edit or delete them.
+### The blog application runs in node.js using express.js and handlebars.js
+### The user microservice also runs in node.js using express.js and passport-jwt communicating with the blog via a REST api
 
 # Setup
 ### This application was created with a local Mongo Database, posts can not be created and the microservice will not work without a database connection
