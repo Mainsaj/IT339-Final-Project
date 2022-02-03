@@ -19,6 +19,7 @@
 5. The application can now be viewed at the port specified in /blog/.env
 
 # Database
+### Example Post
 `[{
   "_id": {
     "$oid": "Auto-generated on post creation"
@@ -27,6 +28,13 @@
   "title": "Post Title Here",
   "body": "Post Text Here"
 }]`
+### Example User
+`[{
+        "username":"admin",
+        "password":"it339",
+        "firstName":"admin",
+        "lastName":"admin"
+    }]`
 
 # Testing
 ### Testing for the application is built with mocha and chai  
