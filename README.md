@@ -4,7 +4,7 @@
 -Any user can view posts while only an authenticated user can add, edit or delete them.   
 
 # Setup
-###This application was created with a local Mongo Database, posts can not be created and the microservice will not work without a database connection
+### This application was created with a local Mongo Database, posts can not be created and the microservice will not work without a database connection
 1. Open a terminal in the blog directory and users directory  
 2. Run npm install in each directory to install the required dependencies.
 
