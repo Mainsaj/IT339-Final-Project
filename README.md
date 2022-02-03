@@ -29,13 +29,14 @@
   "body": ""
 }]`
 ### Example User
-`[{
+```
+  [{
         "username":"",
         "password":"",
         "firstName":"",
         "lastName":""
-    }]`
-
+    }]
+```
 # Testing
 ### Testing for the application is built with mocha and chai  
 ### Sample tests may be run with npm test  
