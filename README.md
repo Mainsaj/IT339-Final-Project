@@ -20,22 +20,24 @@
 
 # Database
 ### Example Post
-`[{
+```
+[{
   "_id": {
     "$oid": "Auto-generated on post creation"
   },
   "key": "",
   "title": "",
   "body": ""
-}]`
+}]
+```
 ### Example User
 ```
-  [{
-        "username":"",
-        "password":"",
-        "firstName":"",
-        "lastName":""
-    }]
+[{
+  "username":"",
+  "password":"",
+  "firstName":"",
+  "lastName":""
+}]
 ```
 # Testing
 ### Testing for the application is built with mocha and chai  
