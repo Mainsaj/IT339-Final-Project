@@ -1,0 +1,31 @@
+{
+  "name": "final-project-mainsaj-2",
+  "version": "0.0.0",
+  "private": true,
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node ./bin/www.mjs",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^10.0.0",
+    "express": "~4.16.1",
+    "express-session": "^1.17.2",
+    "hbs": "~4.0.4",
+    "http-errors": "~1.6.3",
+    "mongodb": "^4.2.0",
+    "morgan": "~1.9.1",
+    "passport": "^0.5.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}

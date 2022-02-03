@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url('../images/m0rv9zpy.bmp');
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: cover;
+}
+
+.square {
+  height:250px;
+  width:250px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.b-dark {
+  border: 1px solid rgba(60, 123, 129, 255);
+}
+
+.bg-green {
+  background-color: rgba(60, 123, 129, 255);
+}
